@@ -16,7 +16,7 @@ NumberOfGenerals=0
 NumberOfDivisionalCouplers=0
 NumberOfPanels=0
 NumberOfSwitches=0
-NumberOfRanks=0
+NumberOfRanks=23
 DivisionalsStoreIntermanualCouplers=Y
 DivisionalsStoreIntramanualCouplers=Y
 DivisionalsStoreTremulants=Y
@@ -168,6 +168,735 @@ FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=21
 FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=32
+WindchestGroup=1
+Percussive=N
+HarmonicNumber=2
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=1
+DispDrawstopRow=5
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=#000000
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=1
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=32
+
+[Stop002]
+Name=Open Diapason
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=21
+FirstAccessiblePipeLogicalPipeNumber=13
+NumberOfLogicalPipes=32
+WindchestGroup=1
+Percussive=N
+HarmonicNumber=4
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=2
+DispDrawstopRow=5
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=#000000
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=2
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=32
+
+[Stop003]
+Name=Bourdon
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=30
+FirstAccessiblePipeLogicalPipeNumber=13
+NumberOfLogicalPipes=73
+WindchestGroup=1
+Percussive=N
+HarmonicNumber=8
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=3
+DispDrawstopRow=5
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=#000000
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=3
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=73
+
+[Stop004]
+Name=Bass Flute
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=21
+FirstAccessiblePipeLogicalPipeNumber=13
+NumberOfLogicalPipes=32
+WindchestGroup=1
+Percussive=N
+HarmonicNumber=8
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=1
+DispDrawstopRow=6
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=#000000
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=4
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=32
+
+[Stop005]
+Name=Bassoon
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=21
+FirstAccessiblePipeLogicalPipeNumber=13
+NumberOfLogicalPipes=32
+WindchestGroup=1
+Percussive=N
+HarmonicNumber=8
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=2
+DispDrawstopRow=6
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=DARK RED
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=5
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=32
+
+[Stop006]
+Name=Open Diapason
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=50
+FirstAccessiblePipeLogicalPipeNumber=13
+NumberOfLogicalPipes=61
+WindchestGroup=2
+Percussive=N
+HarmonicNumber=8
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=1
+DispDrawstopRow=1
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=#000000
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=6
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=61
+
+[Stop007]
+Name=Claribel Flute
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=50
+FirstAccessiblePipeLogicalPipeNumber=13
+NumberOfLogicalPipes=61
+WindchestGroup=2
+Percussive=N
+HarmonicNumber=8
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=2
+DispDrawstopRow=1
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=#000000
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=7
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=61
+
+[Stop008]
+Name=Bell Gamba
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=50
+FirstAccessiblePipeLogicalPipeNumber=13
+NumberOfLogicalPipes=61
+WindchestGroup=2
+Percussive=N
+HarmonicNumber=8
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=3
+DispDrawstopRow=1
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=#000000
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=8
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=61
+
+[Stop009]
+Name=Dulciana
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=50
+FirstAccessiblePipeLogicalPipeNumber=13
+NumberOfLogicalPipes=61
+WindchestGroup=2
+Percussive=N
+HarmonicNumber=8
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=1
+DispDrawstopRow=2
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=#000000
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=9
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=61
+
+[Stop010]
+Name=Principal
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=50
+FirstAccessiblePipeLogicalPipeNumber=13
+NumberOfLogicalPipes=61
+WindchestGroup=2
+Percussive=N
+HarmonicNumber=16
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=3
+DispDrawstopRow=2
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=#000000
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=10
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=61
+
+[Stop011]
+Name=Flute
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=61
+FirstAccessiblePipeLogicalPipeNumber=13
+NumberOfLogicalPipes=73
+WindchestGroup=2
+Percussive=N
+HarmonicNumber=16
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=2
+DispDrawstopRow=2
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=#000000
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=11
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=73
+
+[Stop012]
+Name=Twelfth
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=55
+FirstAccessiblePipeLogicalPipeNumber=13
+NumberOfLogicalPipes=66
+WindchestGroup=2
+Percussive=N
+HarmonicNumber=24
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=1
+DispDrawstopRow=3
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=#000000
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=12
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=66
+
+[Stop013]
+Name=Fifteenth
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=50
+FirstAccessiblePipeLogicalPipeNumber=13
+NumberOfLogicalPipes=61
+WindchestGroup=2
+Percussive=N
+HarmonicNumber=8
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=2
+DispDrawstopRow=3
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=#000000
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=13
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=61
+
+[Stop014]
+Name=Clarinet
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=50
+FirstAccessiblePipeLogicalPipeNumber=13
+NumberOfLogicalPipes=61
+WindchestGroup=2
+Percussive=N
+HarmonicNumber=8
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=3
+DispDrawstopRow=3
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=DARK RED
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=14
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=61
+
+[Stop015]
+Name=Open Diapason
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=61
+FirstAccessiblePipeLogicalPipeNumber=13
+NumberOfLogicalPipes=73
+WindchestGroup=3
+Percussive=N
+HarmonicNumber=8
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=4
+DispDrawstopRow=1
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=#000000
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=15
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=73
+
+[Stop016]
+Name=Stopped Diapason
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=50
+FirstAccessiblePipeLogicalPipeNumber=13
+NumberOfLogicalPipes=61
+WindchestGroup=3
+Percussive=N
+HarmonicNumber=8
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=5
+DispDrawstopRow=1
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=#000000
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=16
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=61
+
+[Stop017]
+Name=Viola di Gamba
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=61
+FirstAccessiblePipeLogicalPipeNumber=13
+NumberOfLogicalPipes=73
+WindchestGroup=3
+Percussive=N
+HarmonicNumber=8
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=6
+DispDrawstopRow=1
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=#000000
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=17
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=73
+
+[Stop018]
+Name=Viola Celeste
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=61
+FirstAccessiblePipeLogicalPipeNumber=8
+NumberOfLogicalPipes=68
+WindchestGroup=3
+Percussive=N
+HarmonicNumber=8
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=4
+DispDrawstopRow=2
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=#000000
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=18
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=68
+
+[Stop019]
+Name=Gemshorn
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=61
+FirstAccessiblePipeLogicalPipeNumber=13
+NumberOfLogicalPipes=73
+WindchestGroup=3
+Percussive=N
+HarmonicNumber=16
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=5
+DispDrawstopRow=2
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=#000000
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=19
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=73
+
+[Stop020]
+Name=Flageolet
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=50
+FirstAccessiblePipeLogicalPipeNumber=13
+NumberOfLogicalPipes=61
+WindchestGroup=3
+Percussive=N
+HarmonicNumber=8
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=6
+DispDrawstopRow=2
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=#000000
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=20
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=61
+
+[Stop021]
+Name=Oboe
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=61
+FirstAccessiblePipeLogicalPipeNumber=13
+NumberOfLogicalPipes=73
+WindchestGroup=3
+Percussive=N
+HarmonicNumber=8
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=5
+DispDrawstopRow=3
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=DARK RED
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=21
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=73
+
+[Stop022]
+Name=Bassoon
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=61
+FirstAccessiblePipeLogicalPipeNumber=13
+NumberOfLogicalPipes=73
+WindchestGroup=3
+Percussive=N
+HarmonicNumber=4
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=4
+DispDrawstopRow=3
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=DARK RED
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=22
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=73
+
+[Stop023]
+Name=Cornopean
+FirstAccessiblePipeLogicalKeyNumber=1
+NumberOfAccessiblePipes=61
+FirstAccessiblePipeLogicalPipeNumber=13
+NumberOfLogicalPipes=73
+WindchestGroup=3
+Percussive=N
+HarmonicNumber=8
+DefaultToEngaged=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=6
+DispDrawstopRow=3
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=DARK RED
+DispLabelFontName=Segoe UI
+NumberOfRanks=1
+Rank001=23
+Rank001FirstPipeNumber=1
+Rank001FirstAccessibleKeyNumber=1
+Rank001PipeCount=73
+
+[Coupler001]
+Name=16' Sw/Sw
+UnisonOff=N
+DefaultToEngaged=N
+DestinationManual=2
+DestinationKeyshift=-12
+CoupleToSubsequentUnisonIntermanualCouplers=N
+CoupleToSubsequentUpwardIntermanualCouplers=N
+CoupleToSubsequentDownwardIntermanualCouplers=N
+CoupleToSubsequentUpwardIntramanualCouplers=N
+CoupleToSubsequentDownwardIntramanualCouplers=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=4
+DispDrawstopRow=6
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=DARK GREEN
+DispLabelFontName=Segoe UI
+
+[Coupler002]
+Name=Sw/Sw
+UnisonOff=Y
+DisplayInInvertedState=Y
+DefaultToEngaged=N
+DestinationManual=2
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=5
+DispDrawstopRow=6
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=DARK GREEN
+DispLabelFontName=Segoe UI
+
+[Coupler003]
+Name=4' Sw/Sw
+UnisonOff=N
+DefaultToEngaged=N
+DestinationManual=2
+DestinationKeyshift=12
+CoupleToSubsequentUnisonIntermanualCouplers=N
+CoupleToSubsequentUpwardIntermanualCouplers=N
+CoupleToSubsequentDownwardIntermanualCouplers=N
+CoupleToSubsequentUpwardIntramanualCouplers=N
+CoupleToSubsequentDownwardIntramanualCouplers=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=6
+DispDrawstopRow=6
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=DARK GREEN
+DispLabelFontName=Segoe UI
+
+[Coupler004]
+Name=4' Gt/Gt
+UnisonOff=N
+DefaultToEngaged=N
+DestinationManual=1
+DestinationKeyshift=12
+CoupleToSubsequentUnisonIntermanualCouplers=N
+CoupleToSubsequentUpwardIntermanualCouplers=N
+CoupleToSubsequentDownwardIntermanualCouplers=N
+CoupleToSubsequentUpwardIntramanualCouplers=N
+CoupleToSubsequentDownwardIntramanualCouplers=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=4
+DispDrawstopRow=100
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=DARK GREEN
+DispLabelFontName=Segoe UI
+
+[Coupler005]
+Name=Sw/Gt
+UnisonOff=N
+DefaultToEngaged=N
+DestinationManual=2
+DestinationKeyshift=0
+CoupleToSubsequentUnisonIntermanualCouplers=N
+CoupleToSubsequentUpwardIntermanualCouplers=N
+CoupleToSubsequentDownwardIntermanualCouplers=N
+CoupleToSubsequentUpwardIntramanualCouplers=N
+CoupleToSubsequentDownwardIntramanualCouplers=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=3
+DispDrawstopRow=100
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=DARK GREEN
+DispLabelFontName=Segoe UI
+
+[Coupler006]
+Name=Gt/Ped
+UnisonOff=N
+DefaultToEngaged=N
+DestinationManual=1
+DestinationKeyshift=0
+CoupleToSubsequentUnisonIntermanualCouplers=N
+CoupleToSubsequentUpwardIntermanualCouplers=N
+CoupleToSubsequentDownwardIntermanualCouplers=N
+CoupleToSubsequentUpwardIntramanualCouplers=N
+CoupleToSubsequentDownwardIntramanualCouplers=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=1
+DispDrawstopRow=100
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=DARK GREEN
+DispLabelFontName=Segoe UI
+
+[Coupler007]
+Name=Sw/Ped
+UnisonOff=N
+DefaultToEngaged=N
+DestinationManual=2
+DestinationKeyshift=0
+CoupleToSubsequentUnisonIntermanualCouplers=N
+CoupleToSubsequentUpwardIntermanualCouplers=N
+CoupleToSubsequentDownwardIntermanualCouplers=N
+CoupleToSubsequentUpwardIntramanualCouplers=N
+CoupleToSubsequentDownwardIntramanualCouplers=N
+Displayed=Y
+DisplayAsPiston=N
+DispDrawstopCol=2
+DispDrawstopRow=100
+DispImageNum=1
+DispLabelFontSize=10
+DispLabelColour=DARK GREEN
+DispLabelFontName=Segoe UI
+
+[Enclosure001]
+Name=Swell
+AmpMinimumLevel=20
+EnclosureStyle=3
+DispLabelFontSize=9
+DispLabelColour=WHITE
+DispLabelFontName=Segoe UI
+
+[Label001]
+Name=Great
+FreeXPlacement=N
+FreeYPlacement=N
+DispAtTopOfDrawstopCol=Y
+DispDrawstopCol=2
+DispSpanDrawstopColToRight=N
+DispImageNum=1
+DispLabelFontSize=9
+DispLabelColour=#000000
+DispLabelFontName=Segoe UI
+
+[Label002]
+Name=Pedal
+FreeXPlacement=N
+FreeYPlacement=N
+DispAtTopOfDrawstopCol=N
+DispDrawstopCol=2
+DispSpanDrawstopColToRight=N
+DispImageNum=1
+DispLabelFontSize=9
+DispLabelColour=#000000
+DispLabelFontName=Segoe UI
+
+[Label003]
+Name=Swell
+FreeXPlacement=N
+FreeYPlacement=N
+DispAtTopOfDrawstopCol=Y
+DispDrawstopCol=5
+DispSpanDrawstopColToRight=N
+DispImageNum=1
+DispLabelFontSize=9
+DispLabelColour=#000000
+DispLabelFontName=Segoe UI
+
+[Rank001]
+Name=Gravitas
+NumberOfLogicalPipes=32
+FirstMidiNoteNumber=36
 WindchestGroup=1
 Percussive=N
 HarmonicNumber=2
@@ -651,22 +1380,11 @@ Pipe032Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\PE\PD_Bourd32\ORT
 Pipe032Release004CuePoint=0
 Pipe032Release004MaxKeyPressTime=99999
 Pipe032ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=1
-DispDrawstopRow=5
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=#000000
-DispLabelFontName=Segoe UI
 
-[Stop002]
+[Rank002]
 Name=Open Diapason
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=21
-FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=32
+FirstMidiNoteNumber=36
 WindchestGroup=1
 Percussive=N
 HarmonicNumber=4
@@ -1150,22 +1868,11 @@ Pipe032Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\PE\PD_Diapa16\ORT
 Pipe032Release004CuePoint=0
 Pipe032Release004MaxKeyPressTime=99999
 Pipe032ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=2
-DispDrawstopRow=5
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=#000000
-DispLabelFontName=Segoe UI
 
-[Stop003]
+[Rank003]
 Name=Bourdon
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=30
-FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=73
+FirstMidiNoteNumber=36
 WindchestGroup=1
 Percussive=N
 HarmonicNumber=8
@@ -2264,22 +2971,11 @@ Pipe073Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\SW\SW_Bourdon16\O
 Pipe073Release004CuePoint=0
 Pipe073Release004MaxKeyPressTime=99999
 Pipe073ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=3
-DispDrawstopRow=5
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=#000000
-DispLabelFontName=Segoe UI
 
-[Stop004]
+[Rank004]
 Name=Bass Flute
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=21
-FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=32
+FirstMidiNoteNumber=36
 WindchestGroup=1
 Percussive=N
 HarmonicNumber=8
@@ -2763,22 +3459,11 @@ Pipe032Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\PE\PD_Flute8\ORTF
 Pipe032Release004CuePoint=0
 Pipe032Release004MaxKeyPressTime=99999
 Pipe032ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=1
-DispDrawstopRow=6
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=#000000
-DispLabelFontName=Segoe UI
 
-[Stop005]
+[Rank005]
 Name=Bassoon
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=21
-FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=32
+FirstMidiNoteNumber=36
 WindchestGroup=1
 Percussive=N
 HarmonicNumber=8
@@ -3262,22 +3947,11 @@ Pipe032Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\PE\PD_Trombone16\
 Pipe032Release004CuePoint=0
 Pipe032Release004MaxKeyPressTime=99999
 Pipe032ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=2
-DispDrawstopRow=6
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=DARK RED
-DispLabelFontName=Segoe UI
 
-[Stop006]
+[Rank006]
 Name=Open Diapason
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=50
-FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=61
+FirstMidiNoteNumber=36
 WindchestGroup=2
 Percussive=N
 HarmonicNumber=8
@@ -4196,22 +4870,11 @@ Pipe061Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\GT\GR_Diap8\ORTF_
 Pipe061Release004CuePoint=0
 Pipe061Release004MaxKeyPressTime=99999
 Pipe061ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=1
-DispDrawstopRow=1
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=#000000
-DispLabelFontName=Segoe UI
 
-[Stop007]
+[Rank007]
 Name=Claribel Flute
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=50
-FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=61
+FirstMidiNoteNumber=36
 WindchestGroup=2
 Percussive=N
 HarmonicNumber=8
@@ -5130,22 +5793,11 @@ Pipe061Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\GT\GR_HarmFl8\ORT
 Pipe061Release004CuePoint=0
 Pipe061Release004MaxKeyPressTime=99999
 Pipe061ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=2
-DispDrawstopRow=1
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=#000000
-DispLabelFontName=Segoe UI
 
-[Stop008]
+[Rank008]
 Name=Bell Gamba
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=50
-FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=61
+FirstMidiNoteNumber=36
 WindchestGroup=2
 Percussive=N
 HarmonicNumber=8
@@ -6064,22 +6716,11 @@ Pipe061Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\SW\SW_Gamba8\ORTF
 Pipe061Release004CuePoint=0
 Pipe061Release004MaxKeyPressTime=99999
 Pipe061ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=3
-DispDrawstopRow=1
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=#000000
-DispLabelFontName=Segoe UI
 
-[Stop009]
+[Rank009]
 Name=Dulciana
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=50
-FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=61
+FirstMidiNoteNumber=36
 WindchestGroup=2
 Percussive=N
 HarmonicNumber=8
@@ -6998,22 +7639,11 @@ Pipe061Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\CH\CH_Dulciana8\O
 Pipe061Release004CuePoint=0
 Pipe061Release004MaxKeyPressTime=99999
 Pipe061ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=1
-DispDrawstopRow=2
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=#000000
-DispLabelFontName=Segoe UI
 
-[Stop010]
+[Rank010]
 Name=Principal
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=50
-FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=61
+FirstMidiNoteNumber=36
 WindchestGroup=2
 Percussive=N
 HarmonicNumber=16
@@ -7932,22 +8562,11 @@ Pipe061Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\GT\GR_Oct4\ORTF_G
 Pipe061Release004CuePoint=0
 Pipe061Release004MaxKeyPressTime=99999
 Pipe061ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=3
-DispDrawstopRow=2
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=#000000
-DispLabelFontName=Segoe UI
 
-[Stop011]
+[Rank011]
 Name=Flute
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=61
-FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=73
+FirstMidiNoteNumber=36
 WindchestGroup=2
 Percussive=N
 HarmonicNumber=16
@@ -9046,22 +9665,11 @@ Pipe073Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\CH\CH_Flute4\ORTF
 Pipe073Release004CuePoint=0
 Pipe073Release004MaxKeyPressTime=99999
 Pipe073ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=2
-DispDrawstopRow=2
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=#000000
-DispLabelFontName=Segoe UI
 
-[Stop012]
+[Rank012]
 Name=Twelfth
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=55
-FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=66
+FirstMidiNoteNumber=36
 WindchestGroup=2
 Percussive=N
 HarmonicNumber=24
@@ -10055,22 +10663,11 @@ Pipe066Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\CH\CH_Nasard223\O
 Pipe066Release004CuePoint=0
 Pipe066Release004MaxKeyPressTime=99999
 Pipe066ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=1
-DispDrawstopRow=3
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=#000000
-DispLabelFontName=Segoe UI
 
-[Stop013]
+[Rank013]
 Name=Fifteenth
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=50
-FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=61
+FirstMidiNoteNumber=36
 WindchestGroup=2
 Percussive=N
 HarmonicNumber=8
@@ -10989,22 +11586,11 @@ Pipe061Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\CH\CH_Piccolo2\OR
 Pipe061Release004CuePoint=0
 Pipe061Release004MaxKeyPressTime=99999
 Pipe061ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=2
-DispDrawstopRow=3
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=#000000
-DispLabelFontName=Segoe UI
 
-[Stop014]
+[Rank014]
 Name=Clarinet
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=50
-FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=61
+FirstMidiNoteNumber=36
 WindchestGroup=2
 Percussive=N
 HarmonicNumber=8
@@ -11923,22 +12509,11 @@ Pipe061Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\CH\CH_Clarinet8\O
 Pipe061Release004CuePoint=0
 Pipe061Release004MaxKeyPressTime=99999
 Pipe061ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=3
-DispDrawstopRow=3
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=DARK RED
-DispLabelFontName=Segoe UI
 
-[Stop015]
+[Rank015]
 Name=Open Diapason
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=61
-FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=73
+FirstMidiNoteNumber=36
 WindchestGroup=3
 Percussive=N
 HarmonicNumber=8
@@ -13037,22 +13612,11 @@ Pipe073Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\SW\SW_Diapason8\O
 Pipe073Release004CuePoint=0
 Pipe073Release004MaxKeyPressTime=99999
 Pipe073ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=4
-DispDrawstopRow=1
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=#000000
-DispLabelFontName=Segoe UI
 
-[Stop016]
+[Rank016]
 Name=Stopped Diapason
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=50
-FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=61
+FirstMidiNoteNumber=36
 WindchestGroup=3
 Percussive=N
 HarmonicNumber=8
@@ -13971,22 +14535,11 @@ Pipe061Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\SW\SW_Bourdon8\OR
 Pipe061Release004CuePoint=0
 Pipe061Release004MaxKeyPressTime=99999
 Pipe061ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=5
-DispDrawstopRow=1
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=#000000
-DispLabelFontName=Segoe UI
 
-[Stop017]
+[Rank017]
 Name=Viola di Gamba
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=61
-FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=73
+FirstMidiNoteNumber=36
 WindchestGroup=3
 Percussive=N
 HarmonicNumber=8
@@ -15085,22 +15638,11 @@ Pipe073Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\SOLO\Solo_Gamba8\
 Pipe073Release004CuePoint=0
 Pipe073Release004MaxKeyPressTime=99999
 Pipe073ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=6
-DispDrawstopRow=1
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=#000000
-DispLabelFontName=Segoe UI
 
-[Stop018]
+[Rank018]
 Name=Viola Celeste
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=61
-FirstAccessiblePipeLogicalPipeNumber=8
 NumberOfLogicalPipes=68
+FirstMidiNoteNumber=36
 WindchestGroup=3
 Percussive=N
 HarmonicNumber=8
@@ -15920,22 +16462,11 @@ Pipe068Release003=..\..\GrandOrgue\Organs\Skinner op 497\pipes\SOLO\Solo_GambaCe
 Pipe068Release003CuePoint=0
 Pipe068Release003MaxKeyPressTime=99999
 Pipe068ReleaseCount=3
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=4
-DispDrawstopRow=2
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=#000000
-DispLabelFontName=Segoe UI
 
-[Stop019]
+[Rank019]
 Name=Gemshorn
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=61
-FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=73
+FirstMidiNoteNumber=36
 WindchestGroup=3
 Percussive=N
 HarmonicNumber=16
@@ -17034,22 +17565,11 @@ Pipe073Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\SW\SW_Princ4\ORTF
 Pipe073Release004CuePoint=0
 Pipe073Release004MaxKeyPressTime=99999
 Pipe073ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=5
-DispDrawstopRow=2
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=#000000
-DispLabelFontName=Segoe UI
 
-[Stop020]
+[Rank020]
 Name=Flageolet
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=50
-FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=61
+FirstMidiNoteNumber=36
 WindchestGroup=3
 Percussive=N
 HarmonicNumber=8
@@ -17968,22 +18488,11 @@ Pipe061Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\SW\SW_Fifteenth2\
 Pipe061Release004CuePoint=0
 Pipe061Release004MaxKeyPressTime=99999
 Pipe061ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=6
-DispDrawstopRow=2
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=#000000
-DispLabelFontName=Segoe UI
 
-[Stop021]
+[Rank021]
 Name=Oboe
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=61
-FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=73
+FirstMidiNoteNumber=36
 WindchestGroup=3
 Percussive=N
 HarmonicNumber=8
@@ -19082,22 +19591,11 @@ Pipe073Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\SW\SW_CornodAmour
 Pipe073Release004CuePoint=0
 Pipe073Release004MaxKeyPressTime=99999
 Pipe073ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=5
-DispDrawstopRow=3
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=DARK RED
-DispLabelFontName=Segoe UI
 
-[Stop022]
+[Rank022]
 Name=Bassoon
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=61
-FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=73
+FirstMidiNoteNumber=36
 WindchestGroup=3
 Percussive=N
 HarmonicNumber=4
@@ -20196,22 +20694,11 @@ Pipe073Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\SW\SW_Bassoon16\O
 Pipe073Release004CuePoint=0
 Pipe073Release004MaxKeyPressTime=99999
 Pipe073ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=4
-DispDrawstopRow=3
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=DARK RED
-DispLabelFontName=Segoe UI
 
-[Stop023]
+[Rank023]
 Name=Cornopean
-FirstAccessiblePipeLogicalKeyNumber=1
-NumberOfAccessiblePipes=61
-FirstAccessiblePipeLogicalPipeNumber=13
 NumberOfLogicalPipes=73
+FirstMidiNoteNumber=36
 WindchestGroup=3
 Percussive=N
 HarmonicNumber=8
@@ -21310,192 +21797,4 @@ Pipe073Release004=..\..\GrandOrgue\Organs\Skinner op 497\pipes\SW\SW_Cornopean8\
 Pipe073Release004CuePoint=0
 Pipe073Release004MaxKeyPressTime=99999
 Pipe073ReleaseCount=4
-DefaultToEngaged=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=6
-DispDrawstopRow=3
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=DARK RED
-DispLabelFontName=Segoe UI
-
-[Coupler001]
-Name=16' Sw/Sw
-UnisonOff=N
-DefaultToEngaged=N
-DestinationManual=2
-DestinationKeyshift=-12
-CoupleToSubsequentUnisonIntermanualCouplers=N
-CoupleToSubsequentUpwardIntermanualCouplers=N
-CoupleToSubsequentDownwardIntermanualCouplers=N
-CoupleToSubsequentUpwardIntramanualCouplers=N
-CoupleToSubsequentDownwardIntramanualCouplers=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=4
-DispDrawstopRow=6
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=DARK GREEN
-DispLabelFontName=Segoe UI
-
-[Coupler002]
-Name=Sw/Sw
-UnisonOff=Y
-DisplayInInvertedState=Y
-DefaultToEngaged=N
-DestinationManual=2
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=5
-DispDrawstopRow=6
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=DARK GREEN
-DispLabelFontName=Segoe UI
-
-[Coupler003]
-Name=4' Sw/Sw
-UnisonOff=N
-DefaultToEngaged=N
-DestinationManual=2
-DestinationKeyshift=12
-CoupleToSubsequentUnisonIntermanualCouplers=N
-CoupleToSubsequentUpwardIntermanualCouplers=N
-CoupleToSubsequentDownwardIntermanualCouplers=N
-CoupleToSubsequentUpwardIntramanualCouplers=N
-CoupleToSubsequentDownwardIntramanualCouplers=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=6
-DispDrawstopRow=6
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=DARK GREEN
-DispLabelFontName=Segoe UI
-
-[Coupler004]
-Name=4' Gt/Gt
-UnisonOff=N
-DefaultToEngaged=N
-DestinationManual=1
-DestinationKeyshift=12
-CoupleToSubsequentUnisonIntermanualCouplers=N
-CoupleToSubsequentUpwardIntermanualCouplers=N
-CoupleToSubsequentDownwardIntermanualCouplers=N
-CoupleToSubsequentUpwardIntramanualCouplers=N
-CoupleToSubsequentDownwardIntramanualCouplers=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=4
-DispDrawstopRow=100
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=DARK GREEN
-DispLabelFontName=Segoe UI
-
-[Coupler005]
-Name=Sw/Gt
-UnisonOff=N
-DefaultToEngaged=N
-DestinationManual=2
-DestinationKeyshift=0
-CoupleToSubsequentUnisonIntermanualCouplers=N
-CoupleToSubsequentUpwardIntermanualCouplers=N
-CoupleToSubsequentDownwardIntermanualCouplers=N
-CoupleToSubsequentUpwardIntramanualCouplers=N
-CoupleToSubsequentDownwardIntramanualCouplers=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=3
-DispDrawstopRow=100
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=DARK GREEN
-DispLabelFontName=Segoe UI
-
-[Coupler006]
-Name=Gt/Ped
-UnisonOff=N
-DefaultToEngaged=N
-DestinationManual=1
-DestinationKeyshift=0
-CoupleToSubsequentUnisonIntermanualCouplers=N
-CoupleToSubsequentUpwardIntermanualCouplers=N
-CoupleToSubsequentDownwardIntermanualCouplers=N
-CoupleToSubsequentUpwardIntramanualCouplers=N
-CoupleToSubsequentDownwardIntramanualCouplers=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=1
-DispDrawstopRow=100
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=DARK GREEN
-DispLabelFontName=Segoe UI
-
-[Coupler007]
-Name=Sw/Ped
-UnisonOff=N
-DefaultToEngaged=N
-DestinationManual=2
-DestinationKeyshift=0
-CoupleToSubsequentUnisonIntermanualCouplers=N
-CoupleToSubsequentUpwardIntermanualCouplers=N
-CoupleToSubsequentDownwardIntermanualCouplers=N
-CoupleToSubsequentUpwardIntramanualCouplers=N
-CoupleToSubsequentDownwardIntramanualCouplers=N
-Displayed=Y
-DisplayAsPiston=N
-DispDrawstopCol=2
-DispDrawstopRow=100
-DispImageNum=1
-DispLabelFontSize=10
-DispLabelColour=DARK GREEN
-DispLabelFontName=Segoe UI
-
-[Enclosure001]
-Name=Swell
-AmpMinimumLevel=20
-EnclosureStyle=3
-DispLabelFontSize=9
-DispLabelColour=WHITE
-DispLabelFontName=Segoe UI
-
-[Label001]
-Name=Great
-FreeXPlacement=N
-FreeYPlacement=N
-DispAtTopOfDrawstopCol=Y
-DispDrawstopCol=2
-DispSpanDrawstopColToRight=N
-DispImageNum=1
-DispLabelFontSize=9
-DispLabelColour=#000000
-DispLabelFontName=Segoe UI
-
-[Label002]
-Name=Pedal
-FreeXPlacement=N
-FreeYPlacement=N
-DispAtTopOfDrawstopCol=N
-DispDrawstopCol=2
-DispSpanDrawstopColToRight=N
-DispImageNum=1
-DispLabelFontSize=9
-DispLabelColour=#000000
-DispLabelFontName=Segoe UI
-
-[Label003]
-Name=Swell
-FreeXPlacement=N
-FreeYPlacement=N
-DispAtTopOfDrawstopCol=Y
-DispDrawstopCol=5
-DispSpanDrawstopColToRight=N
-DispImageNum=1
-DispLabelFontSize=9
-DispLabelColour=#000000
-DispLabelFontName=Segoe UI
 
