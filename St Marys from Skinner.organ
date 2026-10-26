@@ -16,7 +16,7 @@ NumberOfGenerals=0
 NumberOfDivisionalCouplers=0
 NumberOfPanels=0
 NumberOfSwitches=0
-NumberOfRanks=22
+NumberOfRanks=23
 DivisionalsStoreIntermanualCouplers=Y
 DivisionalsStoreIntramanualCouplers=Y
 DivisionalsStoreTremulants=Y
@@ -56,7 +56,7 @@ DispButtonsAboveManuals=N
 DispTrimAboveManuals=N
 DispTrimBelowManuals=N
 DispTrimAboveExtraRows=N
-DispExtraDrawstopRowsAboveExtraButtonRows=N
+DispExtraDrawstopRowsAboveExtraButtonRows=NRanks=
 DispDrawstopWidth=78
 DispDrawstopHeight=69
 DispPistonWidth=44
@@ -175,11 +175,15 @@ DispImageNum=1
 DispLabelFontSize=10
 DispLabelColour=#000000
 DispLabelFontName=Segoe UI
-NumberOfRanks=1
-Rank001=1
-Rank001FirstPipeNumber=1
-Rank001FirstAccessibleKeyNumber=1
-Rank001PipeCount=32
+NumberOfRanks=2
+
+; === 1st Rank: Fundamental (16') ===
+Rank001=3                          ; Reference your existing Subbass [Rank001]
+
+; === 2nd Rank: The Acoustic Quint (10-2/3') ===
+Rank002=23                          ; Reference the exact same Subbass [Rank001]
+
+
 
 [Stop002]
 Name=Open Diapason 16
@@ -16799,3 +16803,11 @@ Pipe061Release002=Data - Cracov St John Cantius\I Trompette 8\R1\096-c.wav
 Pipe061Release002MaxKeyPressTime=140
 Pipe061Release003=Data - Cracov St John Cantius\I Trompette 8\R2\096-c.wav
 Pipe061Release003MaxKeyPressTime=537
+
+[Rank023]
+Name=Virtual Quint 10-2/3'
+NumberOfLogicalPipes=32
+FirstMidiNoteNumber=36
+WindchestGroup=1
+Percussive=N
+HarmonicNumber=8
