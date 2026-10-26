@@ -163,7 +163,7 @@ Enclosure001=1
 NumberOfTremulants=0
 
 [Stop001]
-Name=Gravitas
+Name=Gravitas 32
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=21
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -187,7 +187,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=32
 
 [Stop002]
-Name=Open Diapason
+Name=Open Diapason 16
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=21
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -211,7 +211,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=32
 
 [Stop003]
-Name=Bourdon
+Name=Bourdon 16
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=30
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -235,7 +235,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=73
 
 [Stop004]
-Name=Bass Flute
+Name=Bass Flute 8
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=21
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -259,7 +259,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=32
 
 [Stop005]
-Name=Bassoon
+Name=Bassoon 16
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=21
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -283,7 +283,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=32
 
 [Stop006]
-Name=Open Diapason
+Name=Open Diapason 8
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=50
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -307,7 +307,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=61
 
 [Stop007]
-Name=Claribel Flute
+Name=Claribel Flute 8
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=50
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -331,7 +331,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=61
 
 [Stop008]
-Name=Bell Gamba
+Name=Bell Gamba 8
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=50
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -355,7 +355,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=61
 
 [Stop009]
-Name=Dulciana
+Name=Dulciana 8
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=50
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -379,7 +379,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=61
 
 [Stop010]
-Name=Principal
+Name=Principal 4
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=50
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -403,7 +403,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=61
 
 [Stop011]
-Name=Flute
+Name=Flute 4
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=61
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -427,7 +427,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=73
 
 [Stop012]
-Name=Twelfth
+Name=Twelfth 2 2/3
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=55
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -451,7 +451,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=66
 
 [Stop013]
-Name=Fifteenth
+Name=Fifteenth 2
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=50
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -475,7 +475,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=61
 
 [Stop014]
-Name=Clarinet
+Name=Clarinet 8
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=50
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -499,7 +499,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=61
 
 [Stop015]
-Name=Open Diapason
+Name=Open Diapason 8
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=61
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -523,7 +523,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=73
 
 [Stop016]
-Name=Stopped Diapason
+Name=Stopped Diapason 8
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=50
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -547,7 +547,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=61
 
 [Stop017]
-Name=Viola di Gamba
+Name=Viola di Gamba 8
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=61
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -571,7 +571,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=73
 
 [Stop018]
-Name=Viola Celeste
+Name=Viola Celeste 8
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=61
 FirstAccessiblePipeLogicalPipeNumber=8
@@ -595,7 +595,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=68
 
 [Stop019]
-Name=Gemshorn
+Name=Gemshorn 4
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=61
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -619,7 +619,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=73
 
 [Stop020]
-Name=Flageolet
+Name=Flageolet 2
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=50
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -643,7 +643,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=61
 
 [Stop021]
-Name=Oboe
+Name=Oboe 8
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=61
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -667,7 +667,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=73
 
 [Stop022]
-Name=Bassoon
+Name=Bassoon 16
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=61
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -691,7 +691,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=73
 
 [Stop023]
-Name=Cornopean
+Name=Cornopean 8
 FirstAccessiblePipeLogicalKeyNumber=1
 NumberOfAccessiblePipes=61
 FirstAccessiblePipeLogicalPipeNumber=13
@@ -715,7 +715,7 @@ Rank001FirstAccessibleKeyNumber=1
 Rank001PipeCount=73
 
 [Coupler001]
-Name=16' Sw/Sw
+Name=Sw Sub Octave
 UnisonOff=N
 DefaultToEngaged=N
 DestinationManual=2
@@ -735,7 +735,7 @@ DispLabelColour=DARK GREEN
 DispLabelFontName=Segoe UI
 
 [Coupler002]
-Name=Sw/Sw
+Name=Sw Unison
 UnisonOff=Y
 DisplayInInvertedState=Y
 DefaultToEngaged=N
@@ -750,7 +750,7 @@ DispLabelColour=DARK GREEN
 DispLabelFontName=Segoe UI
 
 [Coupler003]
-Name=4' Sw/Sw
+Name=Sw Super Octave
 UnisonOff=N
 DefaultToEngaged=N
 DestinationManual=2
@@ -770,7 +770,7 @@ DispLabelColour=DARK GREEN
 DispLabelFontName=Segoe UI
 
 [Coupler004]
-Name=4' Gt/Gt
+Name=Gt Super Octave
 UnisonOff=N
 DefaultToEngaged=N
 DestinationManual=1
@@ -894,7 +894,7 @@ DispLabelColour=#000000
 DispLabelFontName=Segoe UI
 
 [Rank001]
-Name=Gravitas
+Name=Gravitas 32
 NumberOfLogicalPipes=32
 FirstMidiNoteNumber=36
 WindchestGroup=1
@@ -1382,7 +1382,7 @@ Pipe032Release004MaxKeyPressTime=99999
 Pipe032ReleaseCount=4
 
 [Rank002]
-Name=Open Diapason
+Name=Open Diapason 16
 NumberOfLogicalPipes=32
 FirstMidiNoteNumber=36
 WindchestGroup=1
@@ -1870,7 +1870,7 @@ Pipe032Release004MaxKeyPressTime=99999
 Pipe032ReleaseCount=4
 
 [Rank003]
-Name=Bourdon
+Name=Bourdon 16
 NumberOfLogicalPipes=73
 FirstMidiNoteNumber=36
 WindchestGroup=1
@@ -2973,7 +2973,7 @@ Pipe073Release004MaxKeyPressTime=99999
 Pipe073ReleaseCount=4
 
 [Rank004]
-Name=Bass Flute
+Name=Bass Flute 8
 NumberOfLogicalPipes=32
 FirstMidiNoteNumber=36
 WindchestGroup=1
@@ -3461,7 +3461,7 @@ Pipe032Release004MaxKeyPressTime=99999
 Pipe032ReleaseCount=4
 
 [Rank005]
-Name=Bassoon
+Name=Bassoon 16
 NumberOfLogicalPipes=32
 FirstMidiNoteNumber=36
 WindchestGroup=1
@@ -3949,7 +3949,7 @@ Pipe032Release004MaxKeyPressTime=99999
 Pipe032ReleaseCount=4
 
 [Rank006]
-Name=Open Diapason
+Name=Open Diapason 8
 NumberOfLogicalPipes=61
 FirstMidiNoteNumber=36
 WindchestGroup=2
@@ -4872,7 +4872,7 @@ Pipe061Release004MaxKeyPressTime=99999
 Pipe061ReleaseCount=4
 
 [Rank007]
-Name=Claribel Flute
+Name=Claribel Flute 8
 NumberOfLogicalPipes=61
 FirstMidiNoteNumber=36
 WindchestGroup=2
@@ -5795,7 +5795,7 @@ Pipe061Release004MaxKeyPressTime=99999
 Pipe061ReleaseCount=4
 
 [Rank008]
-Name=Bell Gamba
+Name=Bell Gamba 8
 NumberOfLogicalPipes=61
 FirstMidiNoteNumber=36
 WindchestGroup=2
@@ -6718,7 +6718,7 @@ Pipe061Release004MaxKeyPressTime=99999
 Pipe061ReleaseCount=4
 
 [Rank009]
-Name=Dulciana
+Name=Dulciana 8
 NumberOfLogicalPipes=61
 FirstMidiNoteNumber=36
 WindchestGroup=2
@@ -7641,7 +7641,7 @@ Pipe061Release004MaxKeyPressTime=99999
 Pipe061ReleaseCount=4
 
 [Rank010]
-Name=Principal
+Name=Principal 4
 NumberOfLogicalPipes=61
 FirstMidiNoteNumber=36
 WindchestGroup=2
@@ -8564,7 +8564,7 @@ Pipe061Release004MaxKeyPressTime=99999
 Pipe061ReleaseCount=4
 
 [Rank011]
-Name=Flute
+Name=Flute 4
 NumberOfLogicalPipes=73
 FirstMidiNoteNumber=36
 WindchestGroup=2
@@ -9667,7 +9667,7 @@ Pipe073Release004MaxKeyPressTime=99999
 Pipe073ReleaseCount=4
 
 [Rank012]
-Name=Twelfth
+Name=Twelfth 2 2/3
 NumberOfLogicalPipes=66
 FirstMidiNoteNumber=36
 WindchestGroup=2
@@ -10665,7 +10665,7 @@ Pipe066Release004MaxKeyPressTime=99999
 Pipe066ReleaseCount=4
 
 [Rank013]
-Name=Fifteenth
+Name=Fifteenth 2
 NumberOfLogicalPipes=61
 FirstMidiNoteNumber=36
 WindchestGroup=2
@@ -11588,7 +11588,7 @@ Pipe061Release004MaxKeyPressTime=99999
 Pipe061ReleaseCount=4
 
 [Rank014]
-Name=Clarinet
+Name=Clarinet 8
 NumberOfLogicalPipes=61
 FirstMidiNoteNumber=36
 WindchestGroup=2
@@ -12511,7 +12511,7 @@ Pipe061Release004MaxKeyPressTime=99999
 Pipe061ReleaseCount=4
 
 [Rank015]
-Name=Open Diapason
+Name=Open Diapason 8
 NumberOfLogicalPipes=73
 FirstMidiNoteNumber=36
 WindchestGroup=3
@@ -13614,7 +13614,7 @@ Pipe073Release004MaxKeyPressTime=99999
 Pipe073ReleaseCount=4
 
 [Rank016]
-Name=Stopped Diapason
+Name=Stopped Diapason 8
 NumberOfLogicalPipes=61
 FirstMidiNoteNumber=36
 WindchestGroup=3
@@ -14537,7 +14537,7 @@ Pipe061Release004MaxKeyPressTime=99999
 Pipe061ReleaseCount=4
 
 [Rank017]
-Name=Viola di Gamba
+Name=Viola di Gamba 8
 NumberOfLogicalPipes=73
 FirstMidiNoteNumber=36
 WindchestGroup=3
@@ -15640,7 +15640,7 @@ Pipe073Release004MaxKeyPressTime=99999
 Pipe073ReleaseCount=4
 
 [Rank018]
-Name=Viola Celeste
+Name=Viola Celeste 8
 NumberOfLogicalPipes=68
 FirstMidiNoteNumber=36
 WindchestGroup=3
@@ -16464,7 +16464,7 @@ Pipe068Release003MaxKeyPressTime=99999
 Pipe068ReleaseCount=3
 
 [Rank019]
-Name=Gemshorn
+Name=Gemshorn 4
 NumberOfLogicalPipes=73
 FirstMidiNoteNumber=36
 WindchestGroup=3
@@ -17567,7 +17567,7 @@ Pipe073Release004MaxKeyPressTime=99999
 Pipe073ReleaseCount=4
 
 [Rank020]
-Name=Flageolet
+Name=Flageolet 2
 NumberOfLogicalPipes=61
 FirstMidiNoteNumber=36
 WindchestGroup=3
@@ -18490,7 +18490,7 @@ Pipe061Release004MaxKeyPressTime=99999
 Pipe061ReleaseCount=4
 
 [Rank021]
-Name=Oboe
+Name=Oboe 8
 NumberOfLogicalPipes=73
 FirstMidiNoteNumber=36
 WindchestGroup=3
@@ -19593,7 +19593,7 @@ Pipe073Release004MaxKeyPressTime=99999
 Pipe073ReleaseCount=4
 
 [Rank022]
-Name=Bassoon
+Name=Bassoon 16
 NumberOfLogicalPipes=73
 FirstMidiNoteNumber=36
 WindchestGroup=3
@@ -20696,7 +20696,7 @@ Pipe073Release004MaxKeyPressTime=99999
 Pipe073ReleaseCount=4
 
 [Rank023]
-Name=Cornopean
+Name=Cornopean 8
 NumberOfLogicalPipes=73
 FirstMidiNoteNumber=36
 WindchestGroup=3
