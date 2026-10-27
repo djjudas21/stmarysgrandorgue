@@ -485,7 +485,7 @@ Rank001PipeCount=61
 
 [Stop018]
 Name=Viola Celeste 8
-FirstAccessiblePipeLogicalKeyNumber=1
+FirstAccessiblePipeLogicalKeyNumber=13
 NumberOfAccessiblePipes=49
 DefaultToEngaged=N
 Displayed=Y
