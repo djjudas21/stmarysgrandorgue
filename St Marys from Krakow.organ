@@ -1,10 +1,10 @@
 [Organ]
 ChurchName=St Mary's, Fishponds
 ChurchAddress=Bristol
-OrganBuilder=
-OrganBuildDate=
-OrganComments=Generated using Organ Builder v1.0.2.0
-RecordingDetails=
+OrganBuilder=W. G. Vowles
+OrganBuildDate=1937
+OrganComments=Sampleset based on St John Cantius, Krakow
+RecordingDetails=Recorded by Piotr Grabowski
 InfoFilename=
 NumberOfManuals=2
 HasPedals=Y
