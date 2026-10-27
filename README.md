@@ -1,13 +1,23 @@
 # St Mary's, Fishponds
 
-GrandOrgue organ definition file for [St Mary's, Fishponds](https://stmarysfishponds.org.uk/music/organ/)
+[GrandOrgue](https://grandorgue.com/) organ definition file for
+[St Mary's, Fishponds](https://stmarysfishponds.org.uk/music/organ/).
 
 The organ at St Mary's, Fishponds has never been sampled.
 However, the sound can be approximated by borrowing samples of other organs with similar-sounding stops.
 
-This "composite" sampleset for St Mary's, Fishponds is borrowed from
-[St. John Cantius in Cracow, Poland ](https://piotrgrabowski.pl/cracow-st-john-cantius/), which is
-available free of charge from the amazing [Piotr Grabowski](https://piotrgrabowski.pl).
+It has been a mission to find a suitable donor organ because not many English organs have been sampled
+(at least not available for free) but European organs tend to have different types of stops - especially
+the reeds. Clarinet stops are quite rare on European organs.
+
+Up until now I have been using a sampleset cobbled together from two different donor organs, but I
+encountered problems with tuning and acoustics between the organs.
+
+This sampleset for St Mary's, Fishponds is borrowed entirely from
+[St. John Cantius in Cracow, Poland ](https://piotrgrabowski.pl/cracow-st-john-cantius/), which is the
+first sampleset I have found which contains all of the stops I need in the same instrument.
+
+St John Cantius sampleset is available free of charge from the amazing [Piotr Grabowski](https://piotrgrabowski.pl).
 To use this definition file, you will need to download that sampleset.
 
 `St Marys from Krakow.odp` is a project file for a tool called [Organ Builder](https://drive.google.com/open?id=0B7o0RGQx9qJgWFkyN0R4QmJPREk).
@@ -28,3 +38,18 @@ The end result is a virtual organ which sounds good and is reasonably representa
 2. Locate the file `Cracov st John Cantius.organ`
 3. Copy `St Marys from Krakow.organ` from this repo and place it alongside `Cracov st John Cantius.organ`
 4. Open `St Marys from Krakow.organ` in GrandOrgue and enjoy playing
+
+## Comparison with the real St Mary's organ
+
+The flue pipes (diapasons and flutes) are a pretty good match. There are some variations in voicing,
+but the general sound is close enough that registrations for this sampleset should work on the real St Mary's organ.
+
+The reeds are not quite such a close match. The Bassoon 16' rank in particular is more aggressive-sounding
+at Krakow than the organ at St Mary's. The Oboe 8' is reasonably close, and the Trumpet 8' from Krakow is
+a pretty good match for the Cornopean 8' at St Mary's.
+
+The Clarinet 8' is the biggest discrepancy, largely because English Clarinet stops are generally
+orchestral/imitative, while European Clarinets, where they even exist, are not imitative and usually
+sound more like a Cromorne/Krummhorn.
+
+The reverb on the Krakow sampleset is also more generous than St Mary's church.
