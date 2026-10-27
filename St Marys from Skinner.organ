@@ -196,7 +196,7 @@ NumberOfRanks=1
 Rank001=2
 Rank001FirstPipeNumber=1
 Rank001FirstAccessibleKeyNumber=1
-Rank001PipeCount=32
+Rank001PipeCount=30
 
 [Stop003]
 Name=Bourdon 16
@@ -215,7 +215,7 @@ NumberOfRanks=1
 Rank001=3
 Rank001FirstPipeNumber=1
 Rank001FirstAccessibleKeyNumber=1
-Rank001PipeCount=32
+Rank001PipeCount=30
 
 [Stop004]
 Name=Bass Flute 8
@@ -234,7 +234,7 @@ NumberOfRanks=1
 Rank001=4
 Rank001FirstPipeNumber=1
 Rank001FirstAccessibleKeyNumber=1
-Rank001PipeCount=32
+Rank001PipeCount=30
 
 [Stop005]
 Name=Bassoon 16
@@ -1110,7 +1110,7 @@ Pipe025Release003MaxKeyPressTime=700
 
 [Rank002]
 Name=Open Diapason 16
-NumberOfLogicalPipes=32
+NumberOfLogicalPipes=30
 FirstMidiNoteNumber=36
 WindchestGroup=1
 Percussive=N
@@ -1505,32 +1505,6 @@ Pipe030Release002=Data - Cracov St John Cantius\P Contrebasse 16\R1\065-f.wav
 Pipe030Release002MaxKeyPressTime=143
 Pipe030Release003=Data - Cracov St John Cantius\P Contrebasse 16\R2\065-f.wav
 Pipe030Release003MaxKeyPressTime=541
-Pipe031Gain=1
-Pipe031HarmonicNumber=4
-Pipe031TrackerDelay=4
-Pipe031=Data - Cracov St John Cantius\P Contrebasse 16\A0\066-f#.wav
-Pipe031LoadRelease=N
-Pipe031PitchTuning=-31.29955
-Pipe031ReleaseCount=3
-Pipe031Release001=Data - Cracov St John Cantius\P Contrebasse 16\R0\066-f#.wav
-Pipe031Release001MaxKeyPressTime=-1
-Pipe031Release002=Data - Cracov St John Cantius\P Contrebasse 16\R1\066-f#.wav
-Pipe031Release002MaxKeyPressTime=143
-Pipe031Release003=Data - Cracov St John Cantius\P Contrebasse 16\R2\066-f#.wav
-Pipe031Release003MaxKeyPressTime=450
-Pipe032Gain=1
-Pipe032HarmonicNumber=4
-Pipe032TrackerDelay=4
-Pipe032=Data - Cracov St John Cantius\P Contrebasse 16\A0\067-g.wav
-Pipe032LoadRelease=N
-Pipe032PitchTuning=-31.30154
-Pipe032ReleaseCount=3
-Pipe032Release001=Data - Cracov St John Cantius\P Contrebasse 16\R0\067-g.wav
-Pipe032Release001MaxKeyPressTime=-1
-Pipe032Release002=Data - Cracov St John Cantius\P Contrebasse 16\R1\067-g.wav
-Pipe032Release002MaxKeyPressTime=143
-Pipe032Release003=Data - Cracov St John Cantius\P Contrebasse 16\R2\067-g.wav
-Pipe032Release003MaxKeyPressTime=450
 
 [Rank003]
 Name=Bourdon 16
@@ -1958,7 +1932,7 @@ Pipe032Release003MaxKeyPressTime=700
 
 [Rank004]
 Name=Bass Flute 8
-NumberOfLogicalPipes=32
+NumberOfLogicalPipes=30
 FirstMidiNoteNumber=36
 WindchestGroup=1
 Percussive=N
@@ -2353,32 +2327,6 @@ Pipe030Release002=Data - Cracov St John Cantius\I Bourdon 8\R1\065-f.wav
 Pipe030Release002MaxKeyPressTime=140
 Pipe030Release003=Data - Cracov St John Cantius\I Bourdon 8\R2\065-f.wav
 Pipe030Release003MaxKeyPressTime=610
-Pipe031Gain=0
-Pipe031HarmonicNumber=8
-Pipe031TrackerDelay=6
-Pipe031=Data - Cracov St John Cantius\I Bourdon 8\A0\066-f#.wav
-Pipe031LoadRelease=N
-Pipe031PitchTuning=-32.22650
-Pipe031ReleaseCount=3
-Pipe031Release001=Data - Cracov St John Cantius\I Bourdon 8\R0\066-f#.wav
-Pipe031Release001MaxKeyPressTime=-1
-Pipe031Release002=Data - Cracov St John Cantius\I Bourdon 8\R1\066-f#.wav
-Pipe031Release002MaxKeyPressTime=140
-Pipe031Release003=Data - Cracov St John Cantius\I Bourdon 8\R2\066-f#.wav
-Pipe031Release003MaxKeyPressTime=631
-Pipe032Gain=0
-Pipe032HarmonicNumber=8
-Pipe032TrackerDelay=10
-Pipe032=Data - Cracov St John Cantius\I Bourdon 8\A0\067-g.wav
-Pipe032LoadRelease=N
-Pipe032PitchTuning=-38.19137
-Pipe032ReleaseCount=3
-Pipe032Release001=Data - Cracov St John Cantius\I Bourdon 8\R0\067-g.wav
-Pipe032Release001MaxKeyPressTime=-1
-Pipe032Release002=Data - Cracov St John Cantius\I Bourdon 8\R1\067-g.wav
-Pipe032Release002MaxKeyPressTime=140
-Pipe032Release003=Data - Cracov St John Cantius\I Bourdon 8\R2\067-g.wav
-Pipe032Release003MaxKeyPressTime=700
 
 [Rank005]
 Name=Open Diapason 8
